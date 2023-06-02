@@ -27,6 +27,6 @@ Feel free to explore my repositories for more projects and code!
 I'm always open to exciting opportunities and collaborations. Connect with me on LinkedIn or drop me an email:
 
 🌐 [LinkedIn](https://www.linkedin.com/in/mihaela-melnic/)
-📫 [Email](strechii.mihaela@gmail.com)
+📫 [Email](mailto:strechii.mihaela@gmail.com)
 
 Let's build amazing things together! 🚀
